@@ -1,0 +1,6 @@
+ts=1763168400231 svc=贝壳找房 order_id=BK2026111500871 broker=张伟 mobile=13856286288 id_no=320102199003121234 card=6222021234567890 amount=2680000.00 route=topic=bk.deal.dispatch.v3|upstream=deal-center-02 addr=北京市朝阳区建国路88号
+ts=1763168401104 svc=贝壳找房 order_id=BK2026111500871 broker=张伟 mobile=13856286288 id_no=320102199003121234 card=6222021234567890 amount=2680000.00 route=topic=bk.commission.settle.v2|upstream=settle-svc-01 addr=北京市朝阳区建国路88号
+ts=1763168455620 svc=贝壳找房 order_id=BK2026111500904 broker=李娜 mobile=13907183456 id_no=110105198807154226 card=6217002345678901 amount=945000.00 route=topic=bk.deal.dispatch.v3|upstream=deal-center-01 addr=上海市浦东新区张杨路500号
+ts=1763168518893 svc=贝壳找房 order_id=BK2026111500917 broker=王芳 mobile=13711229988 id_no=310104199205083341 card=6228480123456789 amount=1320000.00 route=topic=bk.deal.dispatch.v3|upstream=deal-center-02 addr=杭州市西湖区文三路90号
+ts=1763168599412 svc=贝壳找房 order_id=BK2026111500925 broker=刘洋 mobile=13502288771 id_no=440305198811243312 card=6212263456789012 amount=3180000.00 route=topic=bk.commission.settle.v2|upstream=settle-svc-02 addr=广州市天河区珠江新城华夏路16号
+ts=1763168700233 svc=贝壳找房 order_id=BK2026111500938 broker=陈静 mobile=13611994455 id_no=330106199401226628 card=6226001234567890 amount=760000.00 route=topic=bk.deal.dispatch.v3|upstream=deal-center-01 addr=成都市武侯区人民南路四段19号
